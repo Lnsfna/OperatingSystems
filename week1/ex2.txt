@@ -1,0 +1,16 @@
+  357  mkdir test
+  358  touch test.txt
+  359  cd ..
+  360  ls ~/week1 | grep txt
+  361  cd week1
+  362  rm test.txt
+  363  rm -r test
+  364  ls
+  365  cd ~
+  366  pwd
+  367  touch test1.txt
+  368  ls
+  369  mv test1.txt week1
+  370  cd week1
+  371  ls
+  372  rm test1.txt
