@@ -1,0 +1,1 @@
+Physical memory address is physically allocated and have one to one correspondence with real cells on device. Virtual address can be bigger  than real addresses and  it should be mapped to real address.

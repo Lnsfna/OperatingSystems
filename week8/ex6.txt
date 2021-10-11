@@ -1,0 +1,4 @@
+2^16 bits - virtual memory
+8KB = 2^13 bits - for one page
+ 2^16/2^13 = 8
+Answer: 8 entries in page `
