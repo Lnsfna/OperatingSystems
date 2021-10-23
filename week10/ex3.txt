@@ -1,0 +1,7 @@
+-rw-rw-rw-  1 alinasafina  staff  13 23 окт 19:22 _ex3.txt
+-rwxrw-rwx  1 alinasafina  staff  13 23 окт 19:22 _ex3.txt
+-rwxrw-rwx  1 alinasafina  staff  13 23 окт 19:22 _ex3.txt
+-rwxrwxrwx  1 alinasafina  staff  13 23 окт 19:22 _ex3.txt
+660 - user and his group can read and write, others can do nothing
+775 - user and his group can read, write and execute, others can read and execute
+777 - user, his group and others can read, write and execute
