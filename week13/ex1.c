@@ -10,7 +10,7 @@ int main(){
     int R[M][N];
     int D[M] = {0};
 
-    FILE* f = fopen("/Users/alinasafina/Desktop/input_dl.txt", "r");;
+    FILE* f = fopen("input_dl.txt", "r");;
     for (int i = 0; i < N; i++){
         fscanf(f, "%i", &E[i]);
     }
