@@ -1,0 +1,6 @@
+The first strategy is deadlock prevention. Deadlock prevention strategy is to design the system in such a way that the possibility of deadlock is excluded. It prevent the occurrence of one of three necessary condition of deadlock: mutual exclusion, no pre-emption and hold and wait; and prevent the occurrence of circular wait. It can be used in embedded systems. For example in hospitals, in hospitals to avoid stopping the work of life-saving machines.
+
+The second strategy is deadlock avoidance. Avoidance strategy is checking that the system does not enter the unsafe state during the runtime. If the system is going into the bad state by taking new request, then the system will avoid those kinds of request and will ignore the request. I think this strategy is good for ordinary OSs.
+
+The third strategy is deadlock recovery. In such strategy we do not care about the future, because we can kill or preempt very important process. And when we choose process to kill or to be preempt in a runtime, it is going to be very time consuming. I think It can be used in real-time systems. For example, in air traffic control systems.
+
